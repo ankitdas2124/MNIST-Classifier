@@ -180,6 +180,7 @@ The model achieves high accuracy on the MNIST test set after 5 epochs of trainin
 This project is provided as-is for educational purposes.
 
 ## Author
+
 Ankit Das
 BCSE student at Jadavpur University,kolkata
 MNIST Classifier Project
