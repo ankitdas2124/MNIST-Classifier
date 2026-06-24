@@ -1,0 +1,2 @@
+sketch,output,timestamp
+"{""background"": "".gradio\\flagged\\sketch\\2deeb220722f50def1d1\\background.png"", ""layers"": ["".gradio\\flagged\\sketch\\79144e642e2929cd9d33\\layer_0.png""], ""composite"": "".gradio\\flagged\\sketch\\64fe066569de5d741782\\composite.png"", ""id"": null}","{""label"": ""2"", ""confidences"": [{""label"": ""2"", ""confidence"": 0.6578978300094604}, {""label"": ""6"", ""confidence"": 0.2544465661048889}, {""label"": ""5"", ""confidence"": 0.08725276589393616}]}",2026-06-24 14:34:24.885444
