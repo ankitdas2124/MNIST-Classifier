@@ -181,6 +181,5 @@ This project is provided as-is for educational purposes.
 
 ## Author
 
-Ankit Das
+Ankit Das,
 BCSE student at Jadavpur University,kolkata
-MNIST Classifier Project
